@@ -1,4 +1,4 @@
-import { Global, jsx } from '@emotion/core'
+import { Global, jsx } from '@emotion/react'
 import { version } from 'feather-icons/package.json'
 import React from 'react'
 import ReactDOM from 'react-dom'
